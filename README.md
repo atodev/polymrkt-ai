@@ -2,7 +2,8 @@
 
 **AI-powered Polymarket trading simulator.** polymrkt connects to live Polymarket prediction markets, runs Mistral AI analysis via Ollama to surface trade recommendations with entry side, stake, stop-loss, and take-profit levels, then tracks your simulated portfolio in real time. It is a full stack Node.js app with a clean browser UI — no exchange account or real money required.
 
-> 📸 *screenshot*
+<img width="1146" height="434" alt="image" src="https://github.com/user-attachments/assets/e62968c1-d093-4fe6-9c54-9f3de7bdebd9" />
+
 
 ---
 
